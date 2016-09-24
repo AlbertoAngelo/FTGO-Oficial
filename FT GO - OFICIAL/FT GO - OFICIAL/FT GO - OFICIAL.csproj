@@ -143,6 +143,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="Views\shared\_LayoutSL.cshtml" />
     <Content Include="Views\FTgo\IndexSL.cshtml" />
+    <Content Include="Views\FTgo\teste.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
