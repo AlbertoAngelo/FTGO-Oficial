@@ -9,7 +9,7 @@ namespace FT_GO___OFICIAL.Controllers
     public class IndexController : Controller
     {
         // GET: Index
-        public ActionResult Index_semLogin()
+       public ActionResult IndexSL()
         {
             return View();
         }
